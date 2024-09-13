@@ -4,7 +4,6 @@ import BackgroundBeamsDemo from "@/components/example/background-beams-demo";
 import BackgroundLinesDemo from "@/components/example/background-lines-demo";
 import CanvasRevealEffectDemo from "@/components/example/canvas-reveal-effect-demo";
 import CardHoverEffectDemo from "@/components/example/card-hover-effect-demo";
-import CompareDemo from "@/components/example/compare-autoplay-demo";
 import CoverDemo from "@/components/example/cover-demo";
 import FlipWordsDemo from "@/components/example/flip-words-demo";
 import LinkPreviewDemo from "@/components/example/link-preview-demo";
